@@ -1,0 +1,15 @@
+/Users/wudisluv/Документ/programs/Vlad/Vlad/obj/Debug/net6.0/Vlad.csproj.AssemblyReference.cache
+/Users/wudisluv/Документ/programs/Vlad/Vlad/obj/Debug/net6.0/Vlad.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wudisluv/Документ/programs/Vlad/Vlad/obj/Debug/net6.0/Vlad.AssemblyInfoInputs.cache
+/Users/wudisluv/Документ/programs/Vlad/Vlad/obj/Debug/net6.0/Vlad.AssemblyInfo.cs
+/Users/wudisluv/Документ/programs/Vlad/Vlad/obj/Debug/net6.0/Vlad.csproj.CoreCompileInputs.cache
+/Users/wudisluv/Документ/programs/Vlad/Vlad/bin/Debug/net6.0/Vlad
+/Users/wudisluv/Документ/programs/Vlad/Vlad/bin/Debug/net6.0/Vlad.deps.json
+/Users/wudisluv/Документ/programs/Vlad/Vlad/bin/Debug/net6.0/Vlad.runtimeconfig.json
+/Users/wudisluv/Документ/programs/Vlad/Vlad/bin/Debug/net6.0/Vlad.dll
+/Users/wudisluv/Документ/programs/Vlad/Vlad/bin/Debug/net6.0/Vlad.pdb
+/Users/wudisluv/Документ/programs/Vlad/Vlad/obj/Debug/net6.0/Vlad.dll
+/Users/wudisluv/Документ/programs/Vlad/Vlad/obj/Debug/net6.0/refint/Vlad.dll
+/Users/wudisluv/Документ/programs/Vlad/Vlad/obj/Debug/net6.0/Vlad.pdb
+/Users/wudisluv/Документ/programs/Vlad/Vlad/obj/Debug/net6.0/Vlad.genruntimeconfig.cache
+/Users/wudisluv/Документ/programs/Vlad/Vlad/obj/Debug/net6.0/ref/Vlad.dll
